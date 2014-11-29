@@ -1,3 +1,5 @@
+.idea
+fork-garage.iml
 .bundle/
 log/*.log
 pkg/
